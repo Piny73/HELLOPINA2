@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "minor",
+            "request": "launch",
+            "mainClass": "Method.minor",
+            "projectName": "HELLOPINA_8c1e1b03"
+        },
+        {
+            "type": "java",
+            "name": "createArrayList",
+            "request": "launch",
+            "mainClass": "EsercitazioniBase.createArrayList",
+            "projectName": "HELLOPINA_8c1e1b03"
+        },
+        {
+            "type": "java",
+            "name": "ExarrayTOarrayList",
+            "request": "launch",
+            "mainClass": "EsercitazioniBase.ExarrayTOarrayList",
+            "projectName": "HELLOPINA_8c1e1b03"
+        },
+        {
+            "type": "java",
+            "name": "AlbergoO",
+            "request": "launch",
+            "mainClass": "Hotel_oO.AlbergoO",
+            "projectName": "HELLOPINA_8c1e1b03"
+        },
+        {
+            "type": "java",
+            "name": "HoteloO",
+            "request": "launch",
+            "mainClass": "hello.HoteloO",
+            "projectName": "HELLOPINA_8c1e1b03"
+        },
+        {
+            "type": "java",
+            "name": "AlbergoO",
+            "request": "launch",
+            "mainClass": "hello.AlbergoO",
+            "projectName": "HELLOPINA_8c1e1b03"
+        },
+        {
+            "type": "java",
+            "name": "CreazArr2D",
+            "request": "launch",
+            "mainClass": "hello.CreazArr2D",
+            "projectName": "HELLOPINA_8c1e1b03"
+        },
+        {
+            "type": "java",
+            "name": "Array2D_Ex2",
+            "request": "launch",
+            "mainClass": "hello.Array2D_Ex2",
+            "projectName": "HELLOPINA_8c1e1b03"
+        },
+        {
+            "type": "java",
+            "name": "Array2D",
+            "request": "launch",
+            "mainClass": "hello.Array2D",
+            "projectName": "HELLOPINA_8c1e1b03"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "HELLOPINA_8c1e1b03"
+        },
+        {
+            "type": "java",
+            "name": "AppWhile",
+            "request": "launch",
+            "mainClass": "hello.AppWhile",
+            "projectName": "HELLOPINA_8c1e1b03"
+        },
+        {
+            "type": "java",
+            "name": "AppWhile2",
+            "request": "launch",
+            "mainClass": "hello.AppWhile2",
+            "projectName": "HELLOPINA_8c1e1b03"
+        },
+        {
+            "type": "java",
+            "name": "ArrayEx1",
+            "request": "launch",
+            "mainClass": "hello.ArrayEx1",
+            "projectName": "HELLOPINA_8c1e1b03"
+        },
+        {
+            "type": "java",
+            "name": "BiblioAsilo",
+            "request": "launch",
+            "mainClass": "hello.BiblioAsilo",
+            "projectName": "HELLOPINA_8c1e1b03"
+        },
+        {
+            "type": "java",
+            "name": "ContoArrayList",
+            "request": "launch",
+            "mainClass": "hello.ContoArrayList",
+            "projectName": "HELLOPINA_8c1e1b03"
+        },
+        {
+            "type": "java",
+            "name": "Contocorrente",
+            "request": "launch",
+            "mainClass": "hello.Contocorrente",
+            "projectName": "HELLOPINA_8c1e1b03"
+        },
+        {
+            "type": "java",
+            "name": "GestioneConto",
+            "request": "launch",
+            "mainClass": "hello.GestioneConto",
+            "projectName": "HELLOPINA_8c1e1b03"
+        },
+        {
+            "type": "java",
+            "name": "GestioneConto2",
+            "request": "launch",
+            "mainClass": "hello.GestioneConto2",
+            "projectName": "HELLOPINA_8c1e1b03"
+        },
+        {
+            "type": "java",
+            "name": "Hello",
+            "request": "launch",
+            "mainClass": "hello.Hello",
+            "projectName": "HELLOPINA_8c1e1b03"
+        },
+        {
+            "type": "java",
+            "name": "ListaInvitati",
+            "request": "launch",
+            "mainClass": "hello.ListaInvitati",
+            "projectName": "HELLOPINA_8c1e1b03"
+        },
+        {
+            "type": "java",
+            "name": "Metodi",
+            "request": "launch",
+            "mainClass": "hello.Metodi",
+            "projectName": "HELLOPINA_8c1e1b03"
+        },
+        {
+            "type": "java",
+            "name": "PensioneJava",
+            "request": "launch",
+            "mainClass": "hello.PensioneJava",
+            "projectName": "HELLOPINA_8c1e1b03"
+        },
+        {
+            "type": "java",
+            "name": "nuovaclasse",
+            "request": "launch",
+            "mainClass": "hello.nuovaclasse",
+            "projectName": "HELLOPINA_8c1e1b03"
+        }
+    ]
+}
